@@ -17,7 +17,7 @@ For more details, you can find my CV here: [Zeping Yang's Curriculum Vitae](../a
 
 If you’d like to get in touch with me, [👉_Click here to scan my WeChat QR Code](../assets/Wechat.jpg).
 
-<h2 id="publications">📝 Publications</h2>
+<h2 id="publications">📑 Publications</h2>
 
 ![Metabolites](../images/GA_Menopause_Premature_Mortality.png)
 
@@ -29,6 +29,13 @@ If you’d like to get in touch with me, [👉_Click here to scan my WeChat QR C
 - **Meaning** An identified metabolomic signature may potentially predict and manage premature mortality risks associated with early menopause.
 
 [👉_Click here to check out my full publications_](https://scholar.google.com/citations?user=A8k3EK4AAAAJ&hl=zh-CN) …
+
+<h2 id="thesis">📝 Master Thesis</h2>
+
+**The Association between Particulate Matter (PM) during pregnancy and birth size of newborns in Hebei Province, China**
+**Zeping Yang**, ..., Nan Li<sup>*</sup>.
+
+![Roadmap for Zeping Yang's master Thesis](../images/Roadmap.png)
 
 <h2 id="honors-and-awards">🎖 Honors and Awards</h2>
 
