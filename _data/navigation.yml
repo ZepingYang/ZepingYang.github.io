@@ -10,6 +10,9 @@ main:
 
   - title: "Publications"
     url: /#publications
+    
+  - title: "Master Thesis"
+    url: /#thesis
 
   - title: "Honors and Awards"
     url: /#honors-and-awards
