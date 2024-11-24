@@ -33,7 +33,6 @@ If you’d like to get in touch with me, [👉_Click here to scan my WeChat QR C
 <h2 id="thesis">📝 Master Thesis</h2>
 
 **The Association between Particulate Matter (PM) during pregnancy and birth size of newborns in Hebei Province, China**
-**Zeping Yang**, ..., Nan Li<sup>*</sup>.
 
 ![Roadmap for Zeping Yang's master Thesis](../images/Roadmap.png)
 
