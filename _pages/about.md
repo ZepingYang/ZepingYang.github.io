@@ -45,7 +45,7 @@ If you’d like to get in touch with me, [👉_Click here to scan my WeChat QR C
 
 <h2 id="educations">📖 Educations</h2>
 
-- *2023.09 - 2025.06*, MM, School of Public Health, Peking University, Beijing, China
+- *2023.09 - 2025.06*, MS, School of Public Health, Peking University, Beijing, China
 - *2018.09 - 2023.06*, MB, School of Public Health, Peking University, Beijing, China
 
 <h2 id="internships">🪪 Internships</h2>
