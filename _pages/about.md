@@ -65,7 +65,7 @@ If you’d like to get in touch with me, [👉_Click here to scan my WeChat QR C
 <h2 id="knowledges">🌟 Sharing of Knowledge </h2>
 This section contains some tutorials I wrote during my work process. I think recording these experience and sharing them here may both help those in need and promote my enthusiasim for learning.
 
-If you find any defects in these tutorials, don't hesitate to contact me in any methods provided by this website.
+If you find any defects in these tutorials, do not hesitate to contact me in any methods provided by this website.
 
 - [1 Tutorial : Extraction and use of air pollution data in the CHAP database-from the .nc to the variable](../assets/Tutorial-Extraction and use of air pollution data in the CHAP database-from the .nc to the variable 2024.11.23.pdf)
 - [2 R code handbook: epidemiology research pattern (To be developed)]()
