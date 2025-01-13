@@ -9,9 +9,9 @@ redirect_from:
 <p id="about-me">
 </p>
 
-  Welcome to Mr. Zeping Yang’s academic webpage! This page is established to document my academic journey, where I share my academic experiences, skills and achievements. You can also have a quick access to knowing me. I am currently pursuing a Master’s degree in the [Institute of Reproductive and Child Health](https://irch.pku.edu.cn/), [School of Public Health](https://sph.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), China. During my Master’s program, I received comprehensive training in multiple disciplines, including Epidemiology, Geographic Information Systems (GIS), and Reproductive Health. I will graduate next year and am actively seeking opportunities for a Ph.D. position in related fields.
+  Welcome to my academic webpage! I created this page to document my educational journey, as well as share experiences, skills, and achievements. You can also have a quick access to knowing me. I am currently pursuing a Master’s degree in the [Institute of Reproductive and Child Health](https://irch.pku.edu.cn/), [School of Public Health](https://sph.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), China. During my Master’s program, I received comprehensive training in multiple disciplines, including Epidemiology, Geographic Information Systems (GIS), and Reproductive Health. I will graduate next year and am actively seeking opportunities for a Ph.D. position in related fields.
 
-I have broad interests in understanding the intricate relationships and mechanisms through which environmental and metabolic exposures influence reproductive health outcomes. My research work has resulted in 2 first-author papers and 8 co-authored papers. Recently, I have focused on applying interdisciplinary approaches, such as machine learning and GIS, to investigate the associations between air pollution—particularly PM2.5 and PM10—and birth size of newborns. 
+l am interested in understanding the intricate relationships and mechanisms through which external environmental exposures influence maternal and child healt. My research work has resulted in 2 first-author papers and 8 co-authored papers. Recently, I have focused on applying interdisciplinary approaches, such as machine learning and GIS, to investigate the associations between air pollution—particularly PM2.5 and PM10—and infant birth size. 
 
 For more details, you can find my CV here: [Zeping Yang's Curriculum Vitae](../assets/CV of Zeping Yang 2024.11.23.pdf). 
 
@@ -39,9 +39,9 @@ If you’d like to get in touch with me, [👉_Click here to scan my WeChat QR C
 
 <h2 id="honors-and-awards">🎖 Honors and Awards</h2>
 
-- *2023.05* Silver Award. 8th China International "Internet+" Innovation and Entrepreneurship Competition 
-- *2021.05* The First Prize. 29th “Challenge Cup” Peking University Interdisciplinary Group 
-- *2020.05* The First Prize. 28th “Challenge Cup” Peking University Interdisciplinary Group
+- *2023.03* Outstanding Completion. Preventive Medicine Student Research Project, School of Public Health, Peking University *Development and Changes, Industry Status, and Talent Demand Analysis of Third-Party Medical Testing Institutions in China* (Group Leader)
+- *2021.05* The First Prize. 29th “Challenge Cup” Peking University Interdisciplinary Group *Demand Location Setting and Resource Allocation of Nucleic Acid Detection Points Based on ArcGIS Analysis — Taking Beijing as the Example* (Core Member)
+- *2020.05* The First Prize. 28th “Challenge Cup” Peking University Interdisciplinary Group *Calculation the Number and Location of AED and Feasibility Analysis in Peking University* (Group Leader)
 
 <h2 id="educations">📖 Educations</h2>
 
@@ -63,7 +63,7 @@ If you’d like to get in touch with me, [👉_Click here to scan my WeChat QR C
 - Office Softwares: Word, Excel, PowerPoint, WPS
 - Project Communication: GitHub, Markdown
 - Adobe Series: Adobe Photoshop, Adobe Illustrator, Adobe Premiere Pro
-- Language: Chinese, English (Learning: Russian, Janpanese)
+- Language: Chinese, English (Learning: Russian)
 - Sports: Table Tennis, Badminton, Basketball, Swimming (Learning: Tennis)
 
 <h2 id="knowledges">🌟 Knowledge Sharing </h2>
