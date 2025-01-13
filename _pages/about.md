@@ -45,11 +45,8 @@ If you’d like to get in touch with me, [👉_Click here to scan my WeChat QR C
 
 <h2 id="educations">📖 Educations</h2>
 
-- *2023.09 - 2025.06*, MS, School of Public Health, Peking University, Beijing, China <br>
-Core Coursework: Reproductive and Perinatal Epidemiology, Spatial Epidemiology, Genetic Epidemiology, Application of R Packages in Clinical Epidemiology, Medical Research with Public Data, Management and Analysis of Medical Big Data
-- *2018.09 - 2023.06*, MB, School of Public Health, Peking University, Beijing, China <br>
-Core Coursework: Epidemiology, Environmental Health, Maternal and Child Health, Child and Adolescent Health, Social Medicine, Public Health Leadership, Public Health Communication
-
+- *2023.09 - 2025.06*, MS, School of Public Health, Peking University, Beijing, China
+- *2018.09 - 2023.06*, MB, School of Public Health, Peking University, Beijing, China
 <h2 id="internships">🪪 Internships</h2>
 
 - *2022.09 - 2022.12*, Departmental Assistant, Beijing Chaoyang District Center for Diseases Prevention and Control, Beijing, China.
@@ -57,18 +54,15 @@ Core Coursework: Epidemiology, Environmental Health, Maternal and Child Health, 
 
 <h2 id="skills">🧰 Skills</h2>
 
-- Data Analysis: R, Stata, SPSS (Learning: SAS)
+- Statistical Softwares: R, Stata, SPSS (Learning: SAS)
 - Machine Learning: Ridge, Lasso, Elastic Regression (Improving: mlr3 book)
 - Epidemiological Tools: EpiData, PASS
 - GIS Tools: ArcGIS, ENVI, IDL
 - Programming: Python, C, Linux Command
-- Office Softwares: Word, Excel, PowerPoint, WPS
 - Project Communication: GitHub, Markdown
-- Adobe Series: Adobe Photoshop, Adobe Illustrator, Adobe Premiere Pro
 - Language: Chinese, English (Learning: Russian)
-- Sports: Table Tennis, Badminton, Basketball, Swimming (Learning: Tennis)
 
-<h2 id="knowledges">🌟 Knowledge Sharing </h2>
+<h2 id="knowledges">🌟 Sharing of Knowledge </h2>
 This section contains some tutorials I wrote during my work process. I think recording these experience and sharing them here may both help those in need and promote my enthusiasim for learning.
 
 If you find any defects in these tutorials, don't hesitate to contact me in any methods provided by this website.
