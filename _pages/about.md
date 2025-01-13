@@ -45,8 +45,10 @@ If you’d like to get in touch with me, [👉_Click here to scan my WeChat QR C
 
 <h2 id="educations">📖 Educations</h2>
 
-- *2023.09 - 2025.06*, MS, School of Public Health, Peking University, Beijing, China
-- *2018.09 - 2023.06*, MB, School of Public Health, Peking University, Beijing, China
+- *2023.09 - 2025.06*, MS, School of Public Health, Peking University, Beijing, China <br>
+Core Coursework: Reproductive and Perinatal Epidemiology, Spatial Epidemiology, Genetic Epidemiology, Application of R Packages in Clinical Epidemiology, Medical Research with Public Data, Management and Analysis of Medical Big Data
+- *2018.09 - 2023.06*, MB, School of Public Health, Peking University, Beijing, China <br>
+Core Coursework: Epidemiology, Environmental Health, Maternal and Child Health, Child and Adolescent Health, Social Medicine, Public Health Leadership, Public Health Communication
 
 <h2 id="internships">🪪 Internships</h2>
 
