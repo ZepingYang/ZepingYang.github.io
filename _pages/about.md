@@ -62,6 +62,8 @@ If you’d like to get in touch with me, [👉_Click here to scan my WeChat QR C
 
 <h2 id="skills">🧰 Skills</h2>
 
+- Environmental Exposure Platforms: [NASA](https://ladsweb.modaps.eosdis.nasa.gov/search/)、[GlobalHighAirPollutants (GHAP) | ChinaHighAirPollutants (CHAP) | USHighAirPollutants (USHAP)](https://weijing-rs.github.io/product.html)、[Tracking Air Pollution in China (TAP)](http://tapdata.org.cn/?page_id=523&lang=en)
+- Cohort Platform: [UK Biobank](https://www.ukbiobank.ac.uk/)
 - Statistical Softwares: R, Stata, SPSS (Learning: SAS)
 - Machine Learning: Ridge, Lasso, Elastic Regression (Improving: mlr3 book)
 - Epidemiological Tools: EpiData, PASS
