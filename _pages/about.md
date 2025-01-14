@@ -40,6 +40,29 @@ If you’d like to get in touch with me, [👉_Click here to scan my WeChat QR C
 **Recent Progress: Dose-Lag-Response effect for PM and birth size**
 ![DLNM](../images/PM2.5_BIrth_weight.png)
 
+<h2 id="data_tool">📊🧰 Datasets and Toolsets</h2>
+
+- Environmental Exposure Platforms:
+  - [NASA](https://ladsweb.modaps.eosdis.nasa.gov/search/)
+  - [GlobalHighAirPollutants (GHAP) | ChinaHighAirPollutants (CHAP) | USHighAirPollutants (USHAP)](https://weijing-rs.github.io/product.html)
+  - [Tracking Air Pollution in China (TAP)](http://tapdata.org.cn/?page_id=523&lang=en)
+- Cohort Platform: [UK Biobank](https://www.ukbiobank.ac.uk/)
+- Lag Effect: [Distributed Lag Linear and Non-Linear Models (DLNMs)](../images/DLNM_PM25_10_Birth_length.png)
+- Mixture Effect: 
+  - [Bayesian Kernel Machine Regression (BKMR)](../images/BKMR.png)
+  - [Quantile G-Computation](../images/Quantile_G_computation.png.png)
+  - Weighted Quantile Sum (WQS) regression (Learning)
+
+<h2 id="internships">🪪 Internships</h2>
+
+- *2022.09 - 2022.12*, Departmental Assistant, Beijing Chaoyang District Center for Diseases Prevention and Control, Beijing, China.
+- *2021.02 - 2022.01*, Medical Intern, Beijing Haidian Hospital, Beijing, China.
+
+<h2 id="educations">👨🏻‍🎓 Educations</h2>
+
+- *2023.09 - 2025.06*, MS, Department of Epidemiology & Biostatistics, Peking University, Beijing, China
+- *2018.09 - 2023.06*, MB, School of Public Health, Peking University, Beijing, China
+
 <h2 id="honors-and-awards">🎖 Honors and Awards</h2>
 
 - *2023.03* Outstanding Completion, Preventive Medicine Research Project, Peking University (Group Leader) <br>
@@ -51,19 +74,8 @@ If you’d like to get in touch with me, [👉_Click here to scan my WeChat QR C
 - *2020.05* First Prize, 28th “Challenge Cup,” Peking University (Group Leader) <br>
   [AED Deployment and Feasibility Analysis in Peking University](../assets/北京大学AED安放数量和位置测算及可行性分析.pdf)
 
-<h2 id="educations">📖 Educations</h2>
+<h2 id="skills">💪 Skills</h2>
 
-- *2023.09 - 2025.06*, MS, Department of Epidemiology & Biostatistics, Peking University, Beijing, China
-- *2018.09 - 2023.06*, MB, School of Public Health, Peking University, Beijing, China
-<h2 id="internships">🪪 Internships</h2>
-
-- *2022.09 - 2022.12*, Departmental Assistant, Beijing Chaoyang District Center for Diseases Prevention and Control, Beijing, China.
-- *2021.02 - 2022.01*, Medical Intern, Beijing Haidian Hospital, Beijing, China.
-
-<h2 id="skills">🧰 Skills</h2>
-
-- Environmental Exposure Platforms: [NASA](https://ladsweb.modaps.eosdis.nasa.gov/search/)、[GlobalHighAirPollutants (GHAP) | ChinaHighAirPollutants (CHAP) | USHighAirPollutants (USHAP)](https://weijing-rs.github.io/product.html)、[Tracking Air Pollution in China (TAP)](http://tapdata.org.cn/?page_id=523&lang=en)
-- Cohort Platform: [UK Biobank](https://www.ukbiobank.ac.uk/)
 - Statistical Softwares: R, Stata, SPSS (Learning: SAS)
 - Machine Learning: Ridge, Lasso, Elastic Regression (Improving: mlr3 book)
 - Epidemiological Tools: EpiData, PASS
