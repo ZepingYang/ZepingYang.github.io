@@ -1,15 +1,15 @@
-/* main.scss */
+---
+---
 
 /*
- * Minimal Mistakes Jekyll Theme
+ *    Minimal Mistakes Jekyll Theme
  *
  *  - Michael Rose
  *  - mademistakes.com
  *  - https://twitter.com/mmistakes
  *
- */
+*/
 
-/* 已有的导入内容 */
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
 @import "mixins";
@@ -39,45 +39,3 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
-
-/* 自定义样式开始 */
-.main-container {
-  width: 100%; /* 将宽度设置为100%，根据需要调整 */
-  max-width: none; /* 移除最大宽度限制 */
-  margin: 0 auto; /* 居中容器 */
-  padding: 0 40px; /* 调整左右内边距，根据需要增加或减少 */
-}
-
-@media (max-width: 1200px) {
-  .main-container {
-    padding: 0 20px; /* 在较小屏幕上减少内边距 */
-  }
-}
-
-/* Publications部分样式 */
-.publication-container {
-  display: flex;
-  align-items: center;
-  margin-bottom: 5%;
-  width: 100%;
-}
-
-.publication-container img {
-  width: 200px; /* 设置为固定宽度，避免占用过多比例 */
-  height: auto;
-  margin-right: 20px;
-  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3); /* 修正box-shadow属性 */
-}
-
-.publication-content {
-  flex: 1;
-}
-
-/* Highlight样式 */
-.highlight {
-  background-color: yellow;
-  font-weight: bold;
-}
-
-/* 其他自定义样式（如有） */
-</style>
