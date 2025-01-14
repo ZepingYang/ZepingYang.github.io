@@ -14,14 +14,17 @@ main:
   - title: "Master Thesis"
     url: /#thesis
 
-  - title: "Honors and Awards"
-    url: /#honors-and-awards
-
-  - title: "Educations"
-    url: /#educations
+  - title: "Datasets & Toolsets"
+    url: /#data_tool
 
   - title: "Internships"
     url: /#internships
+    
+  - title: "Educations"
+    url: /#educations
+
+  - title: "Honors and Awards"
+    url: /#honors-and-awards
 
   - title: "Skills"
     url: /#skills
