@@ -6,8 +6,8 @@
   @include container;
   @include clearfix;
   margin-top: 2em;
-  padding-left: 1em;
-  padding-right: 1em;
+  padding-left: 2em;
+  padding-right: 2em;
   animation: intro 0.3s both;
   animation-delay: 0.35s;
 
@@ -18,13 +18,15 @@
 
 .page {
   @include breakpoint($large) {
-    @include span(10 of 12 last);
-    @include prefix(0.5 of 12);
-    @include suffix(2 of 12);
+    @include span(11 of 12 last);
+    @include prefix(0.25 of 12);
+    @include suffix(0.75 of 12);
   }
 
   .page__inner-wrap {
     @include full();
+    padding-left: 1em; // 增加左边距
+    padding-right: 0.5em; // 减少右边距
 
     .page__content,
     .page__meta,
