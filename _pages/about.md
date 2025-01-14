@@ -31,6 +31,7 @@ If you’d like to get in touch with me, [👉_Click here to scan my WeChat QR C
       <li>Analyzed data from 33,687 postmenopausal women aged 40–69 years in the UK Biobank.</li>
       <li>Identified a metabolomic signature inversely associated with premature mortality, which mediated 13.6% of the association between earlier menopause and premature death.</li>
 
+</div>
 [👉_Click here to check out my full publications_](https://scholar.google.com/citations?user=A8k3EK4AAAAJ&hl=zh-CN) …
 
 <h2 id="thesis">📝 Master Thesis</h2>
