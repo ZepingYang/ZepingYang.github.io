@@ -68,12 +68,14 @@ If you’d like to get in touch with me, [👉_Click here to scan my WeChat QR C
 - Language: Chinese, English (Learning: Russian)
 
 <h2 id="knowledges">🌟 Sharing of Knowledge </h2>
-This section contains some tutorials I wrote during my work process. I think recording these experience and sharing them here may both help those in need and promote my enthusiasim for learning.
+This section contains some tutorials and codes I wrote during my work process. 
 
-If you find any defects in these tutorials, do not hesitate to contact me in any methods provided by this website.
+I think recording and sharing them may both help people in need and promote my enthusiasim for learning.
 
-- [1 Tutorial : Extraction and use of air pollution data in the CHAP database-from the .nc to the variable](../assets/Tutorial-Extraction and use of air pollution data in the CHAP database-from the .nc to the variable 2024.11.23.pdf)
-- [2 R code handbook: epidemiology research pattern (To be developed)]()
-- [3 Stata code handbook: epidemiology research pattern (To be developed)]()
+If you have any question for materials below, do not hesitate to contact me in any methods provided by this website.
+
+- [Tutorial : Extraction and use of air pollution data in the CHAP database-from the .nc to the variable](../assets/Tutorial-Extraction and use of air pollution data in the CHAP database-from the .nc to the variable 2024.11.23.pdf)
+- [R Codes for Epidemiological Research Paradigm](https://github.com/ZepingYang/R-Codes-for-Epidemiological-Research-Paradigm/)
+- [Stata Codes for Epidemiological Research Paradigm (To be developed)]()
 
 
