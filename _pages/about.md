@@ -19,26 +19,13 @@ If you’d like to get in touch with me, [👉_Click here to scan my WeChat QR C
 
 <h2 id="publications">📑 Publications</h2>
 
-![Metabolites](../images/GA_Menopause_Premature_Mortality.png)
-
-**[Earlier Age at Menopause, Plasma Metabolome, and Risk of Premature Mortality](https://doi.org/10.3390/metabo14110571)**
-**Zeping Yang**, Ninghao Huang, ... Nan Li<sup>*</sup>.
-
-- **Question** What is the metabolomic signature associated with the age at menopause, and does it mediate the relationship between earlier age at menopause and increased risk of premature mortality?
-- **Findings** In this prospective cohort study of 33,687 participants, earlier menopause was significantly linked to a 60% higher risk of premature mortality for those experiencing menopause before 40 years old. A metabolomic signature of 106 metabolites correlated with premature mortality mediated 13.6% (1.9%–28.3%) of this association.
-- **Meaning** An identified metabolomic signature may potentially predict and manage premature mortality risks associated with early menopause.
-
-[👉_Click here to check out my full publications_](https://scholar.google.com/citations?user=A8k3EK4AAAAJ&hl=zh-CN) …
-
-<h2 id="publications">📑 Publications</h2>
-
 <!-- Publication 1 -->
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="../images/GA_Menopause_Premature_Mortality.png" alt="Metabolites" style="width:200px; height:auto; margin-right:20px;">
+<div style="display: flex; align-items: center; margin-bottom: 5%;">
+  <img src="../images/GA_Menopause_Premature_Mortality.png" alt="Metabolites" style="width:50%; height:auto; margin-right:20px; box-shadow: 2px;">
   <div>
-    <strong><a href="https://doi.org/10.3390/metabo14110571" style="text-decoration: none; color: inherit;">Earlier Age at Menopause, Plasma Metabolome, and Risk of Premature Mortality</a></strong><br>
-    <strong>Zeping Yang</strong>, Ninghao Huang, ... Nan Li<sup>*</sup>.
-    [Highlight]
+    <strong><a href="https://doi.org/10.3390/metabo14110571" style="text-decoration: underline; color: inherit;">Earlier Age at Menopause, Plasma Metabolome, and Risk of Premature Mortality</a></strong><br>
+    <strong>Zeping Yang</strong>, Ninghao Huang, ... Tao Huang, Nan Li*.<br>
+    [Highlight]<br>
     <ul>
       <li>Earlier menopause is linked to an increased risk of premature mortality.</li>
       <li>Analyzed data from 33,687 postmenopausal women aged 40–69 years in the UK Biobank.</li>
