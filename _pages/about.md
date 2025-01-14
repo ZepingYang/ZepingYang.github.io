@@ -67,15 +67,15 @@ If you’d like to get in touch with me, [👉_Click here to scan my WeChat QR C
 - Project Communication: GitHub, Markdown
 - Language: Chinese, English (Learning: Russian)
 
-<h2 id="knowledges">🌟 Sharing of Knowledge </h2>
-This section contains some tutorials and codes I wrote during my work process. 
+<h2 id="knowledges">🌟 Knowledge Repository </h2>
+This section is a repository for knowledge I think important during my work process, including notes, tutorials, codes and any materials I think maybe helpful for future work. 
 
-I think recording and sharing them may both help people in need and promote my enthusiasim for learning.
+I think recording and sharing them here can both help people in need and promote my enthusiasim for learning and working.
 
 If you have any question for materials below, do not hesitate to contact me in any methods provided by this website.
 
+- [Notes: Introduction to Machine Learning](../assets/《机器学习》2020_薛涛课件学习笔记及Chatgpt答疑内容.pdf)
 - [Tutorial : Extraction and use of air pollution data in the CHAP database-from the .nc to the variable](../assets/Tutorial-Extraction and use of air pollution data in the CHAP database-from the .nc to the variable 2024.11.23.pdf)
 - [R Codes for Epidemiological Research Paradigm](https://github.com/ZepingYang/R-Codes-for-Epidemiological-Research-Paradigm/)
 - [Stata Codes for Epidemiological Research Paradigm (To be developed)]()
-
 
