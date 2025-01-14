@@ -44,7 +44,7 @@ If you’d like to get in touch with me, [👉_Click here to scan my WeChat QR C
 
 - Environmental Exposure Platforms:
   - [NASA](https://ladsweb.modaps.eosdis.nasa.gov/search/)
-  - [GlobalHighAirPollutants (GHAP) | ChinaHighAirPollutants (CHAP) | USHighAirPollutants (USHAP)](https://weijing-rs.github.io/product.html)
+  - [GlobalHighAirPollutants (GHAP)、ChinaHighAirPollutants (CHAP)、USHighAirPollutants (USHAP)](https://weijing-rs.github.io/product.html)
   - [Tracking Air Pollution in China (TAP)](http://tapdata.org.cn/?page_id=523&lang=en)
 - Cohort Platform: [UK Biobank](https://www.ukbiobank.ac.uk/)
 - Lag Effect: [Distributed Lag Linear and Non-Linear Models (DLNMs)](../images/DLNM_PM25_10_Birth_length.png)
