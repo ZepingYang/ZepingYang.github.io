@@ -37,6 +37,9 @@ If you’d like to get in touch with me, [👉_Click here to scan my WeChat QR C
 **Roadmap for Zeping Yang's master Thesis**
 ![Roadmap for Zeping Yang's master Thesis](../images/Roadmap.png)
 
+**Recent Progress: Dose-Lag-Response effect for PM and birth size**
+![DLNM](../images/PM2.5_BIrth_weight.png)
+
 <h2 id="honors-and-awards">🎖 Honors and Awards</h2>
 
 - *2023.03* Outstanding Completion, Preventive Medicine Research Project, Peking University (Group Leader) <br>
