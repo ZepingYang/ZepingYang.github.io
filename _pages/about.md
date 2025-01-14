@@ -50,7 +50,7 @@ If you’d like to get in touch with me, [👉_Click here to scan my WeChat QR C
 - Lag Effect: [Distributed Lag Linear and Non-Linear Models (DLNMs)](../images/DLNM_PM25_10_Birth_length.png)
 - Mixture Effect: 
   - [Bayesian Kernel Machine Regression (BKMR)](../images/BKMR.png)
-  - [Quantile G-Computation](../images/Quantile_G_computation.png.png)
+  - [Quantile G-Computation](../images/Quantile_G_computation.png)
   - Weighted Quantile Sum (WQS) regression (Learning)
 
 <h2 id="internships">🪪 Internships</h2>
