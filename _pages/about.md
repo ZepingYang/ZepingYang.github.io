@@ -1,7 +1,6 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: 
 author_profile: true
 redirect_from: 
   - /about/
@@ -20,18 +19,15 @@ If you’d like to get in touch with me, [👉_Click here to scan my WeChat QR C
 
 <h2 id="publications">📑 Publications</h2>
 
- <img src="../images/GA_Menopause_Premature_Mortality.png" alt="Metabolites" style="width:50%; height:auto; margin-right:20px; box-shadow: 2px;">
+![Metabolites](../images/GA_Menopause_Premature_Mortality.png)
 
-<div>
-    <strong><a href="https://doi.org/10.3390/metabo14110571" style="text-decoration: underline; color: inherit;">Earlier Age at Menopause, Plasma Metabolome, and Risk of Premature Mortality</a></strong><br>
-    <strong>Zeping Yang</strong>, Ninghao Huang, ... Tao Huang, Nan Li*.<br>
-    [Highlight]<br>
-    <ul>
-      <li>Earlier menopause is linked to an increased risk of premature mortality.</li>
-      <li>Analyzed data from 33,687 postmenopausal women aged 40–69 years in the UK Biobank.</li>
-      <li>Identified a metabolomic signature inversely associated with premature mortality, which mediated 13.6% of the association between earlier menopause and premature death.</li>
+**[Earlier Age at Menopause, Plasma Metabolome, and Risk of Premature Mortality](https://doi.org/10.3390/metabo14110571)** <br>
+**Zeping Yang**, Ninghao Huang, ... , Tao Huang, Nan Li<sup>*</sup>.
 
-</div>
+- Earlier menopause is linked to an increased risk of premature mortality
+- Analyzed data from 33,687 postmenopausal women aged 40–69 years in the UK Biobank.
+- Identified a metabolomic signature inversely associated with premature mortality, which mediated 13.6% of the association between earlier menopause and premature death.
+
 [👉_Click here to check out my full publications_](https://scholar.google.com/citations?user=A8k3EK4AAAAJ&hl=zh-CN) …
 
 <h2 id="thesis">📝 Master Thesis</h2>
