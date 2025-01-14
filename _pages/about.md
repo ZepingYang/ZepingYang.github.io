@@ -39,9 +39,15 @@ If you’d like to get in touch with me, [👉_Click here to scan my WeChat QR C
 
 <h2 id="honors-and-awards">🎖 Honors and Awards</h2>
 
-- *2023.03* Outstanding Completion. Preventive Medicine Student Research Project, School of Public Health, Peking University *Development and Changes, Industry Status, and Talent Demand Analysis of Third-Party Medical Testing Institutions in China* (Group Leader)
-- *2021.05* The First Prize. 29th “Challenge Cup” Peking University Interdisciplinary Group *Demand Location Setting and Resource Allocation of Nucleic Acid Detection Points Based on ArcGIS Analysis — Taking Beijing as the Example* (Core Member)
-- *2020.05* The First Prize. 28th “Challenge Cup” Peking University Interdisciplinary Group *Calculation the Number and Location of AED and Feasibility Analysis in Peking University* (Group Leader)
+- *2023.03* Outstanding Completion, Preventive Medicine Research Project, Peking University (Group Leader)
+  [Development and Changes of Third-Party Medical Testing Institutions in China](../assets/我国第三方医学检验机构发展变化、行业现状及人才需求分析.pdf)
+
+- *2021.05* First Prize, 29th “Challenge Cup,” Peking University (Core Member)
+  [Nucleic Acid Detection Point Allocation Based on ArcGIS: A Beijing Case Study](../assets/基于ArcGIS的核酸检测点空间布局及资源分配研究——以北京市为例.pdf)
+
+- *2020.05* First Prize, 28th “Challenge Cup,” Peking University (Group Leader)
+  [AED Deployment and Feasibility Analysis in Peking University](../assets/北京大学AED安放数量和位置测算及可行性分析.pdf)
+
 
 <h2 id="educations">📖 Educations</h2>
 
