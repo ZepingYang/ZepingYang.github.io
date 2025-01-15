@@ -76,7 +76,11 @@ If you’d like to get in touch with me, [👉_Click here to scan my WeChat QR C
 
 <h2 id="skills">💪 Skills</h2>
 
-- Statistical Softwares: R, Stata, SPSS (Learning: SAS)
+- Statistical Softwares: 
+  - R: [Hands-On Programming with R](https://github.com/ZepingYang/Hands-On-Programming-with-R-Book-Codes)、R Data Science
+  - Stata
+  - SPSS 
+  - SAS((Learning)
 - Machine Learning: Ridge, Lasso, Elastic Regression (Improving: mlr3 book)
 - Epidemiological Tools: EpiData, PASS
 - GIS Tools: ArcGIS, ENVI, IDL
