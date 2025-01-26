@@ -13,7 +13,7 @@ redirect_from:
 
 l am interested in understanding the intricate relationships and mechanisms through which external environmental exposures influence maternal and child healt. My research work has resulted in 2 first-author papers and 8 co-authored papers. Recently, I have focused on applying interdisciplinary approaches, such as machine learning and GIS, to investigate the associations between air pollution—particularly PM2.5 and PM10—and infant birth size. 
 
-For more details, you can find my CV here: [Zeping Yang's Curriculum Vitae](../assets/CV of Zeping Yang 2024.11.23.pdf). 
+For more details, you can find my CV here: [Zeping Yang's Curriculum Vitae](../assets/CV Zeping Yang PhD 2025.01.14.pdf). 
 
 If you’d like to get in touch with me, [👉_Click here to scan my WeChat QR Code](../assets/Wechat.jpg).
 
