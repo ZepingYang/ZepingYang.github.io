@@ -9,11 +9,12 @@ redirect_from:
 <p id="about-me">
 </p>
 
-  Welcome to my academic webpage! I created this page to document my educational journey, as well as share experiences, skills, and achievements. You can also have a quick access to knowing me. I am currently pursuing a Master’s degree in the [Institute of Reproductive and Child Health](https://irch.pku.edu.cn/), [School of Public Health](https://sph.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), China. During my Master’s program, I received comprehensive training in multiple disciplines, including Epidemiology, Geographic Information Systems (GIS), and Reproductive Health. I will graduate next year and am actively seeking opportunities for a Ph.D. position in related fields.
+  
+  ttps://www.pku.edu.cn/), China. During my Master’s program, I received comprehensive training in multiple disciplines, including Epidemiology, Geographic Information Systems (GIS), and Reproductive Health. I will graduate next year and am actively seeking opportunities for a Ph.D. position in related fields.
 
 l am interested in understanding the intricate relationships and mechanisms through which external environmental exposures influence maternal and child health. My research work has resulted in 2 first-author papers and 8 co-authored papers. Recently, I have focused on applying interdisciplinary approaches, such as machine learning and GIS, to investigate the associations between air pollution—particularly PM2.5 and PM10—and infant birth size. 
 
-For more details, you can find my CV here: [Zeping Yang's Curriculum Vitae](../assets/CV Zeping Yang PhD 2025.01.14.pdf). 
+For more details, you can find my CV here: [Zeping Yang's Curriculum Vitae](../assets/CV Zeping Yang PhD 2025.02.14.pdf). 
 
 If you’d like to get in touch with me, [👉_Click here to scan my WeChat QR Code](../assets/Wechat.jpg).
 
@@ -86,7 +87,7 @@ If you’d like to get in touch with me, [👉_Click here to scan my WeChat QR C
 - GIS Tools: ArcGIS, ENVI, IDL
 - Programming: Python, C, Linux Command
 - Project Communication: GitHub, Markdown
-- Language: Chinese, [English](../assets/TOEFL Report.pdf) (Learning: Russian)
+- Language: Chinese, [English: TOEFL 100+](../assets/TOEFL Report.pdf) (Learning: Russian)
 
 <h2 id="knowledges">🌟 Knowledge Repository </h2>
 This section is a repository for knowledge I think important during my work process, including notes, tutorials, codes and any materials I think maybe helpful for future work. 
