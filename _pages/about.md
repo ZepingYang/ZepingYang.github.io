@@ -86,7 +86,7 @@ If you’d like to get in touch with me, [👉_Click here to scan my WeChat QR C
 - GIS Tools: ArcGIS, ENVI, IDL
 - Programming: Python, C, Linux Command
 - Project Communication: GitHub, Markdown
-- Language: Chinese, English (Learning: Russian)
+- Language: Chinese, [English](../assets/TOEFL Report.pdf) (Learning: Russian)
 
 <h2 id="knowledges">🌟 Knowledge Repository </h2>
 This section is a repository for knowledge I think important during my work process, including notes, tutorials, codes and any materials I think maybe helpful for future work. 
