@@ -35,11 +35,15 @@ If you’d like to get in touch with me, [👉_Click here to scan my WeChat QR C
 
 **The Association between Particulate Matter (PM) during pregnancy and birth size of newborns in Hebei Province, China**
 
-**Roadmap for Zeping Yang's master Thesis**
+**Roadmap**
 ![Roadmap for Zeping Yang's master Thesis](../images/Roadmap.png)
 
-**Recent Progress: Dose-Lag-Response effect for PM and birth size**
-![DLNM](../images/PM2.5_BIrth_weight.png)
+**Findings:**
+- ForestPlot for the association between PM and birth size
+![ForestPlot](../images/ForestPlot.png)
+- Lag effect and sensitive window for PM
+![BarPlot](../images/BarPlot.png)
+![ContourPlot](../images/ContourPlot.png)
 
 <h2 id="data_tool">📊🧰 Datasets and Toolsets</h2>
 
