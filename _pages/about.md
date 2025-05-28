@@ -104,7 +104,7 @@ If you have any question for materials below, do not hesitate to contact me in a
 
 - [Notes: Introduction to Machine Learning](../assets/《机器学习》2020_薛涛课件学习笔记及Chatgpt答疑内容.pdf)
 - [Notes: Bioinformatics and Linux Class](../assets/Linux 学习笔记及心得体会.pdf)
-- [Tutorial : Extraction and use of air pollution data in the CHAP database-from the .nc to the variable](../assets/Tutorial-Extraction and use of air pollution data in the CHAP database-from the .nc to the variable 2024.11.23.pdf)
+- Tutorial : Extraction and use of air pollution data in the CHAP database-from the .nc to the variable: [EN](../assets/Tutorial-Extraction and use of air pollution data in the CHAP database-from the .nc to the variable 2024.11.23.pdf) [CN](../assets/教程-CHAP数据库空气污染数据提取及使用：从.nc到变量.pdf)
 - [R Codes for Epidemiological Research Paradigm](https://github.com/ZepingYang/R-Codes-for-Epidemiological-Research-Paradigm/)
 - [Stata Codes for Epidemiological Research Paradigm (To be developed)]()
 
