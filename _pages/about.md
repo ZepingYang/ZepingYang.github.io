@@ -18,21 +18,18 @@ For more details, you can find my CV here: [Zeping Yang's Curriculum Vitae](../a
 
 If you’d like to get in touch with me, [👉_Click here to scan my WeChat QR Code](../assets/Wechat.jpg).
 
-<h2 id="publications">📑 Publications</h2>
+<h2 id="experiences">👨‍💻 Research Experiences</h2>
 
-![Metabolites](../images/GA_Menopause_Premature_Mortality.png)
+<h3>CHARLS Dataset Exploration</h3>
+**The association between air pollutants exposures and cognitive function in middle-aged and older adults in China**
+- Highly polluted areas are concentrated in the Beijing-Tianjin-Hebei region and in populous provinces such as Henan and Shandong.
+![Map_Exposure](../images/Charls_Exposures.png)
+- Negative associations at lower concentrations and positive associations at higher concentrations.
+![RCS](../images/Charls_Association.png)
+- GDP may act as a potential effect modifier underlying the counterintuitive positive associations observed between air pollutants and cognitive function.
+![Mechanism](../images/Charls_Mechanism.png)
 
-**[Earlier Age at Menopause, Plasma Metabolome, and Risk of Premature Mortality](https://doi.org/10.3390/metabo14110571)** <br>
-**Zeping Yang**, Ninghao Huang, ... , Tao Huang, Nan Li<sup>*</sup>.
-
-- Earlier menopause is linked to an increased risk of premature mortality
-- Analyzed data from 33,687 postmenopausal women aged 40–69 years in the UK Biobank.
-- Identified a metabolomic signature inversely associated with premature mortality, which mediated 13.6% of the association between earlier menopause and premature death.
-
-[👉_Click here to check out my full publications_](https://scholar.google.com/citations?user=A8k3EK4AAAAJ&hl=zh-CN) …
-
-<h2 id="thesis">📝 Master Thesis</h2>
-
+<h3>Master Thesis</h3>
 **The Association between Particulate Matter (PM) during pregnancy and birth size of newborns in Hebei Province, China**
 
 **Roadmap**
@@ -44,6 +41,18 @@ If you’d like to get in touch with me, [👉_Click here to scan my WeChat QR C
 - Lag effect and sensitive window for PM
 ![BarPlot](../images/BarPlot.png)
 ![ContourPlot](../images/ContourPlot.png)
+
+<h3>UK Biobank Mining</h3>
+![Metabolites](../images/GA_Menopause_Premature_Mortality.png)
+
+**[Earlier Age at Menopause, Plasma Metabolome, and Risk of Premature Mortality](https://doi.org/10.3390/metabo14110571)** <br>
+**Zeping Yang**, Ninghao Huang, ... , Tao Huang, Nan Li<sup>*</sup>.
+
+- Earlier menopause is linked to an increased risk of premature mortality
+- Analyzed data from 33,687 postmenopausal women aged 40–69 years in the UK Biobank.
+- Identified a metabolomic signature inversely associated with premature mortality, which mediated 13.6% of the association between earlier menopause and premature death.
+
+[👉_Click here to check out my full publications_](https://scholar.google.com/citations?user=A8k3EK4AAAAJ&hl=zh-CN) …
 
 <h2 id="data_tool">📊🧰 Datasets and Toolsets</h2>
 
