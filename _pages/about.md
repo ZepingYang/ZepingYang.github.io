@@ -22,10 +22,13 @@ If you’d like to get in touch with me, [👉_Click here to scan my WeChat QR C
 
 <h3>CHARLS Dataset Exploration</h3>
 **The association between air pollutants exposures and cognitive function in middle-aged and older adults in China**
+
 - Highly polluted areas are concentrated in the Beijing-Tianjin-Hebei region and in populous provinces such as Henan and Shandong.
 ![Map_Exposure](../images/Charls_Exposures.png)
+
 - Negative associations at lower concentrations and positive associations at higher concentrations.
 ![RCS](../images/Charls_Association.png)
+
 - GDP may act as a potential effect modifier underlying the counterintuitive positive associations observed between air pollutants and cognitive function.
 ![Mechanism](../images/Charls_Mechanism.png)
 
