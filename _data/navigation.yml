@@ -8,11 +8,8 @@ main:
   - title: "About Me"
     url: /#about-me
 
-  - title: "Publications"
-    url: /#publications
-    
-  - title: "Master Thesis"
-    url: /#thesis
+  - title: "Research Experiences"
+    url: /#experiences
 
   - title: "Datasets and Toolsets"
     url: /#data_tool
